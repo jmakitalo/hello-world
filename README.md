@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+My name is Jouni Mäkitalo and this is my README file for a Github project hello-world.
