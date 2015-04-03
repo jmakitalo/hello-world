@@ -4,7 +4,7 @@ using namespace std;
 
 void someFunction()
 {
-	
+	cout << "In someFunction()\n";
 }
 
 int main()
