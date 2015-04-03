@@ -2,6 +2,11 @@
 
 using namespace std;
 
+void someFunction()
+{
+	
+}
+
 int main()
 {
 	cout << "Hello world\n";
